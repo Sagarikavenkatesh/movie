@@ -1,0 +1,12 @@
+body
+{
+    background-color:#FFE6E6;
+    image{width: 300;height: 300;
+        border-image-width: 0%;}
+}
+h1{color:#cb078d;}
+h1{text-align: center;}
+h2{color:#AD88C6;}
+h2{text-align: center;}
+h3{color:#7469B6;}
+h3{text-align: center;}
